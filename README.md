@@ -19,3 +19,11 @@ https://github.com/pedrualves/follow_me_and_i_follow_you_back.py.git
 . Please input your github login
 . Please input your github access token
 . Do you want Thanos to snap your fingers?(y/n)
+
+## About Github Access Tokens
+
+[creating-a-personal-access-token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
+
+## About Github REST API
+
+[Documentation](https://docs.github.com/en/rest)
