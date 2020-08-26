@@ -1,6 +1,6 @@
 # Follow me and I follow you back
 
-This is just a simple python script to follow who follow me and unfollow who i follow and don't follow me =]
+This is just a simple python script, to follow who follow me and unfollow who i follow and don't follow me back on github =]
 
 # How to run
 
