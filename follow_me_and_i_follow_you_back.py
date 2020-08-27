@@ -65,7 +65,7 @@ def report(following, followers) -> (list, list):
 
 def ask_to_thanos(i_follow_but_not_follow_me: list, follow_me_but_i_not_following: list, github_user: string,
                   github_access_token: string):
-    snap = input('Do you want Thanos to snap your fingers?(y/n)')
+    snap = input('Do you want Thanos to snap his fingers?(y/n)')
 
     if snap == 'y':
         follow(follow_me_but_i_not_following, github_user, github_access_token)
