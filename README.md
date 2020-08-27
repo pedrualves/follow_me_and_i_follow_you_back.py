@@ -18,7 +18,7 @@ https://github.com/pedrualves/follow_me_and_i_follow_you_back.py.git
 4. answer the questions:
 - Please input your github login:
 - Please input your github access token:
-- Do you want Thanos to snap your fingers?(y/n)
+- Do you want Thanos to snap his fingers?(y/n)
 
 ## Github Access Tokens
 
