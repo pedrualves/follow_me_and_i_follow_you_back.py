@@ -71,7 +71,7 @@ def ask_to_thanos(i_follow_but_not_follow_me: list, follow_me_but_i_not_followin
         follow(follow_me_but_i_not_following, github_user, github_access_token)
         unfollow(i_follow_but_not_follow_me, github_user, github_access_token)
 
-    print('Perfect Balance')
+    print('Thanos says: Perfect Balance')
 
 
 GITHUB_USER, GITHUB_ACCESS_TOKEN = ask_credentials()
