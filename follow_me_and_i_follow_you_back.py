@@ -82,3 +82,8 @@ following = set(fetch_by_type('following', GITHUB_USER, GITHUB_ACCESS_TOKEN))
 i_follow_but_not_follow_me, follow_me_but_i_not_following = report(following, followers)
 
 ask_to_thanos(i_follow_but_not_follow_me, follow_me_but_i_not_following, GITHUB_USER, GITHUB_ACCESS_TOKEN)
+
+if len(i_follow_but_not_follow_me) > 0 and len(follow_me_but_i_not_following) > 0:
+    ask_to_thanos(i_follow_but_not_follow_me, follow_me_but_i_not_following, GITHUB_USER, GITHUB_ACCESS_TOKEN)
+else:
+    print('\nNothing to do here')
